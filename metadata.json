@@ -1,0 +1,6 @@
+{
+  "name": "HAVEST PROPERTIES",
+  "description": "Ultra-luxurious real estate brokerage in the UAE offering prime residences, off-plan developer projects, investment ROI calculators, and private consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
